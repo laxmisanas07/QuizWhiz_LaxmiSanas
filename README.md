@@ -9,7 +9,7 @@
 
 ## 🚀 Live Demo
 Check out the live application here:  
-🔗 **[QuizWhiz Live Application](https://quiz-wh-iz-laxmi-sanas.vercel.app/)**
+🔗 **[QuizWhiz Live Application](https://quiz-whiz-laxmi-sanas.vercel.app/)**
 
 ---
 
