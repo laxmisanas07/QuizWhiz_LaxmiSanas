@@ -1,3 +1,10 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "quiz-hero",
+      "description": "A vibrant image representing knowledge and learning, with a lightbulb and brain graphic.",
+      "imageUrl": "https://images.unsplash.com/photo-1759848910640-c0de8f67fca2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxrbm93bGVkZ2UlMjBsZWFybmluZ3xlbnwwfHx8fDE3Njc1NTAyNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "knowledge learning"
+    }
+  ]
 }
